@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/helloworld/static/css/main.a8f3c796.css",
+    "main.js": "/helloworld/static/js/main.1324d404.js",
+    "static/js/787.9a3751e6.chunk.js": "/helloworld/static/js/787.9a3751e6.chunk.js",
+    "static/media/image.png": "/helloworld/static/media/image.14baac946336fd0704e7.png",
+    "static/media/face_co.png": "/helloworld/static/media/face_co.984cc5d1c3006a6cfd3d.png",
+    "static/media/crypto.jpg": "/helloworld/static/media/crypto.d8f3959ccc714dbca44a.jpg",
+    "static/media/weather.jpg": "/helloworld/static/media/weather.52be3c401cbd6168080d.jpg",
+    "static/media/scheduler.jpg": "/helloworld/static/media/scheduler.e2094da39faeb7730645.jpg",
+    "static/media/onlyfriends.jpg": "/helloworld/static/media/onlyfriends.c67795abd3e240746087.jpg",
+    "static/media/notepad.jpg": "/helloworld/static/media/notepad.c506fd0f676f2d662639.jpg",
+    "index.html": "/helloworld/index.html",
+    "main.a8f3c796.css.map": "/helloworld/static/css/main.a8f3c796.css.map",
+    "main.1324d404.js.map": "/helloworld/static/js/main.1324d404.js.map",
+    "787.9a3751e6.chunk.js.map": "/helloworld/static/js/787.9a3751e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f3c796.css",
+    "static/js/main.1324d404.js"
+  ]
+}
